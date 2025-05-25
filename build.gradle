@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.14'
+}
+
+group = 'dev.bibbelventure'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+javafx {
+    version = "21"
+    modules = [ 'javafx.controls', 'javafx.fxml' ] // FXML optional
+}
+
+dependencies {
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.15.2'
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.15.2'
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.15.2'
+}
+
+
+application {
+    mainClass = 'dev.bibbelventure.Main'
+}

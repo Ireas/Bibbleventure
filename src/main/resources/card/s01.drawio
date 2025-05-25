@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Page-1" id="ogx4ymTTTUHVK1lInkce">
+    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qDT2I709dJQo7i6VwxI4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g9a7N0piFlKvamBHn07g-3" target="qDT2I709dJQo7i6VwxI4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9a7N0piFlKvamBHn07g-3" value="Erwachen&lt;div&gt;Die Lichtstrahlen von der Wasseroberfläche tanzen auf den Perlen und Bibbel erwacht im Algenwald von Malur.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="120" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-2" target="qDT2I709dJQo7i6VwxI4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-2" value="Los Los Los!&lt;div&gt;Wie jeden morgen, zieht Bibbel los, um sich mit Bibbels Freundin Lenn zu treffen.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-3" target="qDT2I709dJQo7i6VwxI4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-3" value="Der Treffpunkt&lt;div&gt;Bibbel is an dem Treffpunkt: Bei dem bunten Korallenriff... aber wo ist Lenn?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-5" target="qDT2I709dJQo7i6VwxI4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-5" target="qDT2I709dJQo7i6VwxI4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Auf Lenn Warten&lt;div&gt;Bibbel glaubt, Lenn kommt gleich - Bibbel wartet lieber hier.&lt;/div&gt;" stress="6" id="qDT2I709dJQo7i6VwxI4-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1080" y="120" width="300" height="150" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-6" target="qDT2I709dJQo7i6VwxI4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-6" value="Nach Lenn Suchen&lt;div&gt;Bibbel weiß, Lenn kommt immer - Bibbel sollte nach ihr suchen.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="120" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-7" target="qDT2I709dJQo7i6VwxI4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Weiter Warten&lt;div&gt;Bibbel ist sich sicher, sie muss gleich kommen!&lt;/div&gt;" stress="5" id="qDT2I709dJQo7i6VwxI4-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1080" y="320" width="300" height="150" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-8" target="qDT2I709dJQo7i6VwxI4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-8" value="Seelenverbindung&lt;br&gt;Bibbel spürt in der Seelenverbindung, dass Lenn in Gefahr ist." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="120" width="300" height="150" as="geometry" />
+        </mxCell>
+        <object label="Auf Ins Abenteuer&lt;div&gt;Bibbel muss Lenn retten!&lt;/div&gt;" next-scene="s02" id="qDT2I709dJQo7i6VwxI4-9">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2160" y="120" width="300" height="150" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="qDT2I709dJQo7i6VwxI4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDT2I709dJQo7i6VwxI4-7" target="qDT2I709dJQo7i6VwxI4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

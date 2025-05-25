@@ -1,0 +1,61 @@
+[
+  {
+    "id": "s02-c01",
+    "title": "Immer Der Flosse Nach",
+    "description": "Bibbel schwimmt so schnell er kann, bis er eine Strömungsgabelung erreicht",
+    "nextCardIds": [
+      "s02-c02",
+      "s02-c03"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "s02-c02",
+    "title": "Händlerkrebs",
+    "description": "Bibbel kennt den Händlerkrebs, er hat immer so tolle Glitzersachen",
+    "nextCardIds": [
+      "s02-c05",
+      "s02-c06",
+      "s02-c07"
+    ],
+    "metadata": {
+      "locked": true
+    }
+  },
+  {
+    "id": "s02-c03",
+    "title": "König Tritons Burg",
+    "description": "Bibbel war noch nie in Burg von Lenn's Papa...",
+    "nextCardIds": [],
+    "metadata": {
+      "ending": true
+    }
+  },
+  {
+    "id": "s02-c05",
+    "title": "Bibbel Will Glitzerstein",
+    "description": "Bibbel will den Glitzerstein und dann schnell zurück!",
+    "nextCardIds": [
+      "s02-c02",
+      "s02-c03"
+    ]
+  },
+  {
+    "id": "s02-c06",
+    "title": "Bibbel Will Buntkoralle",
+    "description": "Bibbel will die Buntkoralle und dann schnell zurück!",
+    "nextCardIds": [
+      "s02-c02",
+      "s02-c03"
+    ]
+  },
+  {
+    "id": "s02-c07",
+    "title": "Bibbel Will Algen",
+    "description": "Bibbel will die Algen und dann schnell zurück!",
+    "nextCardIds": [
+      "s02-c02",
+      "s02-c03"
+    ]
+  }
+]

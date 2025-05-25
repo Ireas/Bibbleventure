@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s01-c01",
+    "title": "Erwachen",
+    "description": "Die Lichtstrahlen von der Wasseroberfläche tanzen auf den Perlen und Bibbel erwacht im Algenwald von Malur.",
+    "nextCardIds": [
+      "s01-c02"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "s01-c02",
+    "title": "Los Los Los!",
+    "description": "Wie jeden morgen, zieht Bibbel los, um sich mit Bibbels Freundin Lenn zu treffen.",
+    "nextCardIds": [
+      "s01-c03"
+    ],
+    "metadata": {}
+  },
+  {
+    "id": "s01-c03",
+    "title": "Treffpunkt",
+    "description": "Bibbel is an dem Treffpunkt: Bei dem bunten Korallenriff... aber wo ist Lenn?",
+    "nextCardIds": [
+      "s01-c04",
+      "s01-c05"
+    ],
+    "metadata": {
+      "stress": 5
+    }
+  },
+  {
+    "id": "s01-c04",
+    "title": "Auf Lenn Warten",
+    "description": "Bibbel glaubt, Lenn kommt gleich - Bibbel wartet lieber hier.",
+    "nextCardIds": [
+      "s01-c06"
+    ],
+    "metadata": {
+      "stress": 5
+    }
+  },
+  {
+    "id": "s01-c05",
+    "title": "Nach Lenn Suchen",
+    "description": "Bibbel weiß, Lenn kommt immer - Bibbel sollte nach ihr suchen.",
+    "nextCardIds": [
+      "s01-c06"
+    ],
+    "metadata": {
+      "stress": 5
+    }
+  },
+  {
+    "id": "s01-c06",
+    "title": "Seelenverbindung",
+    "description": "Bibbel spürt in der Seelenverbindung, dass Lenn in Gefahr ist.",
+    "nextCardIds": [
+      "s01-c07"
+    ],
+    "metadata": {
+      "stress": 10
+    }
+  },
+  {
+    "id": "s01-c07",
+    "title": "Auf Ins Abenteuer",
+    "description": "Bibbel muss ihr helfen!",
+    "nextCardIds": [
+      "s02-c01"
+    ],
+    "metadata": {}
+  }
+]
