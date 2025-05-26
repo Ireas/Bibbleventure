@@ -1,10 +1,7 @@
 package dev.bibbelventure;
 
-import dev.bibbelventure.utility.drawio.DrawioNode;
-import dev.bibbelventure.utility.drawio.DrawioParser;
-
-import java.io.File;
-import java.util.Map;
+import dev.bibbelventure.utility.exception.InternalServerException;
+import dev.bibbelventure.utility.logging.GlobalLogger;
 
 /**
  * TODO
@@ -15,6 +12,22 @@ public class QuickTest
 {
     public static void main( String[] args )
     {
+        try
+        {
+            try
+            {
+
+                throw new InternalServerException( "a" );
+            }
+            catch ( InternalServerException e )
+            {
+                throw new InternalServerException( "b", e );
+            }
+        }
+        catch ( Exception e )
+        {
+            GlobalLogger.error( e );
+        }
 
     }
 }

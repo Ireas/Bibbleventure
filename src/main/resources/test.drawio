@@ -1,58 +1,85 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="iFGgD7xd7vHN7_uTbCZC">
-    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YlOm4VDiYgaY15W4KOD3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YlOm4VDiYgaY15W4KOD3-2" target="YlOm4VDiYgaY15W4KOD3-7" edge="1">
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YlOm4VDiYgaY15W4KOD3-2" target="RYppMMGjuxgwk6zSJWiw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q4ez_xt4hf3npoBPEZj6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YlOm4VDiYgaY15W4KOD3-2" target="Q4ez_xt4hf3npoBPEZj6-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Flusskrebs" description="Der Flusskrebs winkt dir zu, nur leider verstehst du ihn nicht" id="YlOm4VDiYgaY15W4KOD3-2">
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Der Flusskrebs" description="Bibbel trifft auf den Händler Flusskrebs" id="YlOm4VDiYgaY15W4KOD3-2">
           <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="80" y="200" width="120" height="80" as="geometry" />
+            <mxGeometry x="80" y="100" width="120" height="80" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Q4ez_xt4hf3npoBPEZj6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YlOm4VDiYgaY15W4KOD3-7" target="Q4ez_xt4hf3npoBPEZj6-2">
+        <mxCell id="Q4ez_xt4hf3npoBPEZj6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YlOm4VDiYgaY15W4KOD3-7" target="Q4ez_xt4hf3npoBPEZj6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Traurig" description="Bibbel ist sehr traurig" stress="20" id="YlOm4VDiYgaY15W4KOD3-7">
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Aufgeben" description="Bibbel ist sehr traurig und geht einfach weg" stress="30" id="YlOm4VDiYgaY15W4KOD3-7">
           <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="240" y="200" width="120" height="80" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Q4ez_xt4hf3npoBPEZj6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4ez_xt4hf3npoBPEZj6-1" target="Q4ez_xt4hf3npoBPEZj6-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Q4ez_xt4hf3npoBPEZj6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q4ez_xt4hf3npoBPEZj6-1" target="Q4ez_xt4hf3npoBPEZj6-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Blubblersprache" description="Bibbel versucht mit Blubs zu fragen, ob er kaufen darf." id="Q4ez_xt4hf3npoBPEZj6-1">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="240" y="320" width="120" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Weggehen" description="Bibbel geht wieder zurück" id="Q4ez_xt4hf3npoBPEZj6-2">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Los los los!" description="Weiter ins Abenteuer" id="Q4ez_xt4hf3npoBPEZj6-2">
+          <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="560" y="200" width="120" height="80" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Q4ez_xt4hf3npoBPEZj6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4ez_xt4hf3npoBPEZj6-5" target="Q4ez_xt4hf3npoBPEZj6-2">
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4ez_xt4hf3npoBPEZj6-5" target="Q4ez_xt4hf3npoBPEZj6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Flusskrebs Versteht" description="Flusskrebs nickt, Bibbel darf" id="Q4ez_xt4hf3npoBPEZj6-5">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="400" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4ez_xt4hf3npoBPEZj6-5" target="RYppMMGjuxgwk6zSJWiw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Klauen" description="Bibbel versucht ein paar Perlen zu mobsen!" pearl="1" stress="5" id="Q4ez_xt4hf3npoBPEZj6-5">
+          <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="80" y="330" width="120" height="80" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Q4ez_xt4hf3npoBPEZj6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q4ez_xt4hf3npoBPEZj6-6" target="Q4ez_xt4hf3npoBPEZj6-2">
+        <mxCell id="Q4ez_xt4hf3npoBPEZj6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q4ez_xt4hf3npoBPEZj6-6" target="Q4ez_xt4hf3npoBPEZj6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Flusskrebs versteht nicht" description="Flusskrebs denkt Bibbel will etwas klauen" health="-10" id="Q4ez_xt4hf3npoBPEZj6-6">
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Flucht" description="Schnell weg, bevor er was bemerkt" id="Q4ez_xt4hf3npoBPEZj6-6">
+          <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="240" y="330" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYppMMGjuxgwk6zSJWiw-3" target="YlOm4VDiYgaY15W4KOD3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYppMMGjuxgwk6zSJWiw-3" target="Q4ez_xt4hf3npoBPEZj6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Pleite" description="Bibbel fällt auf, dass er gar keine Perlen zum Tauschen dabei hat..." id="RYppMMGjuxgwk6zSJWiw-3">
           <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="400" y="440" width="120" height="80" as="geometry" />
+            <mxGeometry x="80" y="200" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYppMMGjuxgwk6zSJWiw-10" target="Q4ez_xt4hf3npoBPEZj6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYppMMGjuxgwk6zSJWiw-10" target="RYppMMGjuxgwk6zSJWiw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Mehr Klauen" description="Bibbel sieht noch mehr Perlen. Er klaut sie auch!" pearl="3" stress="8" id="RYppMMGjuxgwk6zSJWiw-10">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="80" y="440" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYppMMGjuxgwk6zSJWiw-13" target="RYppMMGjuxgwk6zSJWiw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Zauberperle" description="Bibbel greift nach der größten Perle die er sieht, um sie sich einzustecken" pearl="200" stress="22" id="RYppMMGjuxgwk6zSJWiw-13">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="80" y="560" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RYppMMGjuxgwk6zSJWiw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYppMMGjuxgwk6zSJWiw-17" target="Q4ez_xt4hf3npoBPEZj6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="%title%&lt;div&gt;%description%&lt;/div&gt;" placeholders="1" title="Erwischt!" description="Der Flusskrebs hat den Diebstahl gesehen und schlägt Bibbel" health="-30" id="RYppMMGjuxgwk6zSJWiw-17">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="560" y="560" width="120" height="80" as="geometry" />
           </mxCell>
         </object>
       </root>

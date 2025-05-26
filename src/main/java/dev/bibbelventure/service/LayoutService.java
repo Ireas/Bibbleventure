@@ -1,11 +1,11 @@
 package dev.bibbelventure.service;
 
-
 import dev.bibbelventure.StartScreen;
 import dev.bibbelventure.visual.background.BackgroundPane;
 import dev.bibbelventure.visual.background.BackgroundService;
 import dev.bibbelventure.visual.content.ContentPane;
 import dev.bibbelventure.visual.content.ContentService;
+import dev.bibbelventure.visual.topbar.TopbarPane;
 import javafx.scene.Scene;
 import javafx.scene.input.KeyCombination;
 import javafx.scene.layout.*;
@@ -22,7 +22,10 @@ public class LayoutService
     private static LayoutService instance;
     // main window stage and pane
     private Stage mainStage;
-    private Pane mainPane;
+    // panes
+    private BorderPane mainPane;
+    private TopbarPane topbarPane;
+    private ContentPane contentPane;
 
     /**
      * Get static singleton instance or create it, if it is not instantiated.
@@ -46,7 +49,7 @@ public class LayoutService
         mainStage.setFullScreenExitKeyCombination( KeyCombination.NO_MATCH ); // disable fullscreen message
 
         // initialize main pane
-        mainPane = new StackPane();
+        mainPane = new BorderPane();
 
         // set background
         BackgroundPane backgroundPane = BackgroundService.getInstance().createBackgroundPane( mainPane );
@@ -54,23 +57,26 @@ public class LayoutService
         mainPane.getChildren().add( backgroundPane );
 
         // set content
-        ContentPane contentPane = ContentService.getInstance().createContentPane( mainPane );
-
+        contentPane = ContentService.getInstance().createContentPane( mainPane );
         ContentService.getInstance().addPane( new StartScreen() );
-        mainPane.getChildren().add( contentPane );
+        mainPane.setCenter( contentPane );
 
+        topbarPane = new TopbarPane( mainPane );
+        mainPane.setTop( topbarPane );
 
         // create scene from pane
         Scene scene = new Scene( mainPane, 1400, 800 );
         mainStage.setScene( scene );
         mainStage.show();
-        System.out.println(mainPane.getWidth());
-        System.out.println(contentPane.getWidth());
     }
-
 
     public void toggleFullscreen()
     {
         mainStage.setFullScreen( !mainStage.isFullScreen() );
+    }
+
+    public void addToTopbar( Pane pane )
+    {
+        topbarPane.getChildren().add( pane );
     }
 }

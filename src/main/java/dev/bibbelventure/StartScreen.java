@@ -1,5 +1,6 @@
 package dev.bibbelventure;
 
+import dev.bibbelventure.game.pearl.PearlService;
 import dev.bibbelventure.service.ChoiceService;
 import dev.bibbelventure.service.LayoutService;
 import dev.bibbelventure.visual.content.ContentService;
@@ -69,6 +70,7 @@ public class StartScreen
     {
         ContentService.getInstance().clear();
         ContentService.getInstance().addPane( VitalityService.getInstance().getView() );
+        LayoutService.getInstance().addToTopbar( PearlService.getInstance().getView() );
         ChoiceService.getInstance().addFirstCard();
     }
 }

@@ -1,5 +1,6 @@
 package dev.bibbelventure.card;
 
+import dev.bibbelventure.game.pearl.PearlService;
 import dev.bibbelventure.service.ChoiceService;
 import dev.bibbelventure.vitality.VitalityService;
 import javafx.geometry.Insets;
@@ -101,6 +102,10 @@ public class CardView
             if ( source.getMetadata().containsKey( "stress" ) )
             {
                 VitalityService.getInstance().addStress( Integer.parseInt( source.getMetadata().get( "stress" ) ) );
+            }
+            if ( source.getMetadata().containsKey( "pearl" ) )
+            {
+                PearlService.getInstance().addPearls( Integer.parseInt( source.getMetadata().get( "pearl" ) ) );
             }
         } );
     }

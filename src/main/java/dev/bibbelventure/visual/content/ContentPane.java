@@ -16,5 +16,4 @@ public class ContentPane
         prefWidthProperty().bind( parent.widthProperty() );
         prefHeightProperty().bind( parent.heightProperty() );
     }
-
 }
